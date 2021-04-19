@@ -1,0 +1,12 @@
+D:\Projects\DigitalWarePrueba\OpheliaApi\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\Projects\DigitalWarePrueba\OpheliaApi\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\Projects\DigitalWarePrueba\OpheliaApi\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\Projects\DigitalWarePrueba\OpheliaApi\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Projects\DigitalWarePrueba\OpheliaApi\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Projects\DigitalWarePrueba\OpheliaApi\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\Projects\DigitalWarePrueba\OpheliaApi\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\Projects\DigitalWarePrueba\OpheliaApi\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\Projects\DigitalWarePrueba\OpheliaApi\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\Projects\DigitalWarePrueba\OpheliaApi\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\Projects\DigitalWarePrueba\OpheliaApi\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+D:\Projects\DigitalWarePrueba\OpheliaApi\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache

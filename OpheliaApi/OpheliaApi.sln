@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpheliaService", "OpheliaService\OpheliaService.csproj", "{6FF027C7-9359-404C-8BB4-FB43AFD2461C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F17985AE-14FD-428D-B3B8-A6F86860B51C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{DC130FC9-8B6E-4FBB-9B40-96FE31D21C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF027C7-9359-404C-8BB4-FB43AFD2461C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF027C7-9359-404C-8BB4-FB43AFD2461C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF027C7-9359-404C-8BB4-FB43AFD2461C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF027C7-9359-404C-8BB4-FB43AFD2461C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17985AE-14FD-428D-B3B8-A6F86860B51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17985AE-14FD-428D-B3B8-A6F86860B51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17985AE-14FD-428D-B3B8-A6F86860B51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17985AE-14FD-428D-B3B8-A6F86860B51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC130FC9-8B6E-4FBB-9B40-96FE31D21C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC130FC9-8B6E-4FBB-9B40-96FE31D21C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC130FC9-8B6E-4FBB-9B40-96FE31D21C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC130FC9-8B6E-4FBB-9B40-96FE31D21C05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC0B24EF-FA4E-4A05-A44B-1E1AA9F8C877}
+	EndGlobalSection
+EndGlobal
